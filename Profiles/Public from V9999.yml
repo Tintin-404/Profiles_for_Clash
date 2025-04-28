@@ -9,7 +9,7 @@ proxies:
   obfs: tls1.2_ticket_auth
   obfs-param: ''
   password: dongtaiwang.com
-  port: 32000
+  port: 43000
   protocol: auth_chain_a
   protocol-param: ''
   server: dongtaiwang5.com
@@ -18,7 +18,7 @@ proxies:
   cipher: auto
   name: France Ivry-sur-Seine 002
   network: ws
-  port: 36042
+  port: 22779
   server: 195.154.40.247
   skip-cert-verify: true
   tls: false
